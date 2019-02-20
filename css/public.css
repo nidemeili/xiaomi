@@ -1,0 +1,9 @@
+@charset 'utf-8';
+html,body,ul,li,ol,dl,dd,dt,p,h1,h2,h3,h4,h5,h6,form,section,span,fieldset,legend,figure,img,input{margin:0;padding:0;}
+i,em{font-style:normal;}
+b,strong{font-weight:normal;}
+u,a{text-decoration: none;}
+ul,li,ol{list-style:none;}
+img{border:0;display:block;}
+input{outline:none;}
+body{font-family:"微软雅黑";}
